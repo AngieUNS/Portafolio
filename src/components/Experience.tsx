@@ -28,7 +28,7 @@ const experiences = [
     {
         company: "SysEduca",
         role: "Frontend Developer Junior",
-        period: "2023",
+        period: "2024",
         description: "Mantenimiento y creación de nuevas funcionalidades para plataformas educativas.",
         achievements: [
             "Uso de Git Flow para la gestión de versiones en equipo colaborativo.",
