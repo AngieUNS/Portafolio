@@ -9,7 +9,7 @@ const experiences = [
         achievements: [
             "Implementación de arquitecturas modulares y Lazy Loading en Angular para optimizar el rendimiento.",
             "Consumo de Web Services (REST) y manejo de estados complejos.",
-            "Uso de Git Flow para la gestión de versiones en equipo colaborativo."
+            "Migración de componentes legacy a estándares modernos de TypeScript."
         ],
         color: "border-blue-500"
     },
@@ -31,7 +31,7 @@ const experiences = [
         period: "2023",
         description: "Mantenimiento y creación de nuevas funcionalidades para plataformas educativas.",
         achievements: [
-            "Migración de componentes legacy a estándares modernos de TypeScript.",
+            "Uso de Git Flow para la gestión de versiones en equipo colaborativo.",
             "Optimización de formularios reactivos y validaciones de datos."
         ],
         color: "border-violet-500"
