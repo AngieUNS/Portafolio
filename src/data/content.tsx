@@ -5,7 +5,7 @@ export const projects = [
     {
         title: "Reserva de Campos Deportivos",
         description: "Sistema integral con gestión de horarios. Implementado con arquitectura modular y componentes reutilizables.",
-        image: "src/assets/imagen2.png",
+        image: "public/assets/imagen2.png",
         tech: ["Angular", "TypeScript", "NgZorro", "MySQL"],
         accent: "from-blue-600 to-cyan-600",
         demo: "https://camposdeportivos.muninuevochimbote.gob.pe/login", // Tu link de Vercel
@@ -14,7 +14,7 @@ export const projects = [
     {
         title: "Sistema de Legajos",
         description: "Plataforma administrativa para gestión de expedientes con control de roles (Guards) y autenticación JWT.",
-        image: "src/assets/project2.png",
+        image: "public/assets/project2.png",
         tech: ["Angular", "PHP", "SQL Server", "JWT"],
         accent: "from-violet-600 to-purple-600",
         demo: "",
@@ -23,7 +23,7 @@ export const projects = [
     {
         title: "BI Analytics Dashboard",
         description: "Panel de inteligencia de negocios con visualización de métricas en tiempo real, filtros dinámicos por fecha y arquitectura de componentes reutilizables en React.",
-        image: "src/assets/dashboard.PNG", // Usa una captura de lo que acabamos de construir
+        image: "public/assets/dashboard.PNG", // Usa una captura de lo que acabamos de construir
         tech: ["React", "TypeScript", "Recharts", "Tailwind CSS", "Lucide Icons"],
         accent: "from-cyan-500 to-blue-600",
         demo: "#", // Link a la sección de tu portafolio donde está el dashboard
