@@ -37,7 +37,7 @@ export const Hero = () => {
 
                     <div className="flex gap-4">
                         <a
-                            href="/CV_Angie_Castillo.pdf"
+                            href="public/CV_ANGIE_CASTILLO.pdf"
                             download="Angie_Castillo_Frontend_CV.pdf"
                             className="px-8 py-3 bg-white text-black rounded-full font-bold hover:bg-cyan-400 transition"
                         >
