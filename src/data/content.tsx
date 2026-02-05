@@ -26,7 +26,7 @@ export const projects = [
         image: "/assets/dashboard.PNG", // Usa una captura de lo que acabamos de construir
         tech: ["React", "TypeScript", "Recharts", "Tailwind CSS", "Lucide Icons"],
         accent: "from-cyan-500 to-blue-600",
-        demo: "#", // Link a la sección de tu portafolio donde está el dashboard
+        demo: "https://dashboard-beta-three-75.vercel.app/", // Link a la sección de tu portafolio donde está el dashboard
         code: "https://github.com/AngieUNS/dashboard.git"  // Link a tu GitHub
     },
     {
