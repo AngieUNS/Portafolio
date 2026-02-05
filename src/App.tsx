@@ -4,7 +4,8 @@ import { ProjectCard } from './components/ProjectCard';
 import { SkillCard } from './components/SkillCard';
 import { projects, skills } from './data/content';
 import {Contact} from "./components/Contact.tsx";
-import {Experience} from "./components/Experience.tsx"; // La data que separamos
+import {Experience} from "./components/Experience.tsx";
+import { SpeedInsights } from '@vercel/speed-insights/react'; // La data que separamos
 
 function App() {
     return (
@@ -49,6 +50,7 @@ function App() {
                     <p>© 2026 Angie Castillo. Built with React + Vite.</p>
                 </footer>
             </div>
+            <SpeedInsights />
         </div>
     );
 }
