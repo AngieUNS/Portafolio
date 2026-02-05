@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+
+@keyframes scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); } /* Se mueve la mitad porque duplicamos los items */
+}
+
+.animate-scroll {
+  display: flex;
+  width: max-content;
+  animation: scroll 30s linear infinite;
+}
+
+/* Pausar al pasar el mouse para que el reclutador pueda ver bien los logos */
+.animate-scroll:hover {
+  animation-play-state: paused;
+}

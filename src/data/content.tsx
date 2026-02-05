@@ -28,6 +28,15 @@ export const projects = [
         accent: "from-cyan-500 to-blue-600",
         demo: "#", // Link a la sección de tu portafolio donde está el dashboard
         code: "https://github.com/AngieUNS/dashboard.git"  // Link a tu GitHub
+    },
+    {
+        title: "Smart Inventory Dashboard",
+        description: "Dashboard administrativo desarrollado en Vue.js para la gestión de inventarios, con filtrado dinámico mediante Axios.",
+        image: "/assets/vue.PNG", // Asegúrate de que el nombre coincida
+        tech: ["Vue.js", "Axios", "Tailwind CSS", "JavaScript"],
+        demo: "https://vue-proyecto-woad.vercel.app/",
+        accent: "from-cyan-500 to-blue-600",
+        code: "https://github.com/AngieUNS/Vue-proyecto.git"
     }
 ];
 
