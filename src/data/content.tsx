@@ -49,7 +49,7 @@ export const skills = [
     {
         category: "Backend Development", // ✅ NUEVA CATEGORÍA
         icon: Server, // Asegúrate de importar el icono 'Server' de lucide-react
-        items: ["Node.js", ".NET Core", "C#", "Express", "Entity Framework"]
+        items: ["Node.js", ".NET Core", "C#", "Entity Framework"]
     },
     {
         category: "Arquitectura & UX",
