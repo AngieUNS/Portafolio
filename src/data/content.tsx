@@ -1,5 +1,5 @@
 
-import { Code2, Layout, ShieldCheck, Database } from 'lucide-react'
+import {Code2, Layout, ShieldCheck, Database, Server} from 'lucide-react'
 
 export const projects = [
     {
@@ -45,6 +45,11 @@ export const skills = [
         category: "Frontend Core",
         icon: Code2,
         items: ["Angular", "TypeScript", "React", "Ionic (Basico)"]
+    },
+    {
+        category: "Backend Development", // ✅ NUEVA CATEGORÍA
+        icon: Server, // Asegúrate de importar el icono 'Server' de lucide-react
+        items: ["Node.js", ".NET Core", "C#", "Express", "Entity Framework"]
     },
     {
         category: "Arquitectura & UX",

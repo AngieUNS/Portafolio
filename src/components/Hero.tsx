@@ -34,7 +34,7 @@ export const Hero = () => {
                 <div className="mb-8 inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-cyan-500/30 bg-cyan-500/5 backdrop-blur-md">
                     <div className="w-2 h-2 rounded-full bg-cyan-400 animate-pulse"></div>
                     <span className="text-xs font-medium tracking-widest uppercase text-cyan-400">
-                        Frontend Developer
+                        Web Developer
                     </span>
                 </div>
 
