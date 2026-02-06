@@ -3,7 +3,7 @@ import { Briefcase, Calendar, CheckCircle2 } from 'lucide-react';
 const experiences = [
     {
         company: "SIMA - Servicios Industriales de la Marina",
-        role: "Practicante de Ingeniería de Sistemas (Frontend)",
+        role: "Practicante de Ingeniería de Sistemas ",
         period: " Septiembre 2025 - Presente",
         description: "Desarrollo de módulos críticos para la gestión empresarial utilizando arquitecturas escalables.",
         achievements: [
@@ -15,7 +15,7 @@ const experiences = [
     },
     {
         company: "Municipalidad de Nuevo Chimbote",
-        role: "Practicante Frontend",
+        role: "Practicante Desarrollo Web",
         period: "Enero 2025 - Agosto 2025",
         description: "Digitalización de servicios ciudadanos y mejora de la accesibilidad web.",
         achievements: [
