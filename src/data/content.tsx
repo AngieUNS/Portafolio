@@ -37,6 +37,15 @@ export const projects = [
         demo: "https://vue-proyecto-woad.vercel.app/",
         accent: "from-cyan-500 to-blue-600",
         code: "https://github.com/AngieUNS/Vue-proyecto.git"
+    },
+    {
+        title: "AI Lead Analyzer Dashboard",
+        description: "Dashboard inteligente que automatiza la calificación de prospectos mediante NLP, integrando React con flujos de IA para análisis en tiempo real.",
+        image: "/assets/make.png", // Recuerda subir la captura de tu dashboard a esa carpeta
+        tech: ["React", "Gemini AI", "Make.com", "Tailwind CSS", "Webhooks"],
+        demo: "https://make-project-ten.vercel.app/", // Pon aquí tu link de Vercel
+        accent: "from-violet-600 to-purple-600",
+        code: "https://github.com/AngieUNS/make-project"
     }
 ];
 
