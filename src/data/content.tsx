@@ -15,7 +15,7 @@ export const projects = [
         title: "Sistema de Legajos",
         description: "Plataforma administrativa para gestión de expedientes con control de roles (Guards) y autenticación JWT.",
         image: "/assets/project2.png",
-        tech: ["Angular", "PHP", "SQL Server", "JWT"],
+        tech: ["React", "PHP", "SQL Server", "JWT"],
         accent: "from-violet-600 to-purple-600",
         demo: "",
         code: "https://github.com/AngieUNS/Escalafon"

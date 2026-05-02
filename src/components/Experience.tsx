@@ -4,7 +4,7 @@ const experiences = [
     {
         company: "SIMA - Servicios Industriales de la Marina",
         role: "Practicante de Ingeniería de Sistemas ",
-        period: " Septiembre 2025 - Presente",
+        period: " Septiembre 2025 - Marzo 2026",
         description: "Desarrollo de módulos críticos para la gestión empresarial utilizando arquitecturas escalables.",
         achievements: [
             "Implementación de arquitecturas modulares y Lazy Loading en Angular para optimizar el rendimiento.",
